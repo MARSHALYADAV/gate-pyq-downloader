@@ -29,7 +29,8 @@ GATE_PYQs/
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/<MARSHALYADAV>/gate-pyq-downloader.git](https://github.com/MARSHALYADAV/gate-pyq-downloader.git](https://github.com/MARSHALYADAV/gate-pyq-downloader.git
+   git clone https://github.com/MARSHALYADAV/gate-pyq-downloader.git
+
    cd gate-pyq-downloader
 
 
