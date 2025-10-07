@@ -12,16 +12,29 @@ A simple, open-source **Bash script** that automatically downloads all official 
 - 100% open source — learn shell scripting and automation!
 
 ---
-
-## 📂 Folder Structure
+<!-- Folder structure: paste this into README.md -->
+<div>
+  <h3>Folder structure</h3>
+  <pre style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Helvetica Neue', monospace;
+              font-size: 13px; line-height: 1.35; background:#f7f7f7; padding:12px; border-radius:8px; overflow:auto;">
 GATE_PYQs/
 ├── 2025/
-│ ├── 2025_Set_1_Paper.pdf
-│ ├── 2025_Set_1_Keys.pdf
-│ └── ...
+│   ├── 2025_Set_1_Paper.pdf
+│   ├── 2025_Set_1_Keys.pdf
+│   ├── 2025_Set_2_Paper.pdf
+│   ├── 2025_Set_2_Keys.pdf
+│   └── ...
 ├── 2024/
-│ ├── 2024_Set_1_Paper.pdf
-│ └── ...
+│   ├── 2024_Set_1_Paper.pdf
+│   ├── 2024_Set_1_Keys.pdf
+│   └── ...
+├── 2023/
+│   ├── 2023_Question_Paper.pdf
+│   ├── 2023_Keys.pdf
+│   └── ...
+└── README.md
+  </pre>
+</div>
 
 ---
 
