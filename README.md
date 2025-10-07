@@ -48,12 +48,12 @@ GATE_PYQs/
 
 
 ## ⚙️ Make the script executable
-```bash
+
 chmod +x download_gate_pdfs.sh
 
 
 ## ⚙️ Run it
-```bash
+
 ./download_gate_pdfs.sh
 
 
